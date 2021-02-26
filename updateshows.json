@@ -1,1 +1,28 @@
-
+{
+  "Shows": [
+    {
+      "Location": "Pigtucky Derby Pig Races",
+      "Hours": "<Fill Me In>."
+    },
+    {
+      "Location": "Pumpkin Eating Dragon Show",
+      "Hours": "<Fill Me In>."
+    },
+    {
+      "Location": "Stunt Dog Show",
+      "Hours": "1pm, 3pm, 5pm, and 7pm.."
+    },
+    {
+      "Location": "Howl at the Moon Stage",
+      "Hours": "<Fill Me In>"
+    },
+    {
+      "Location": "Candy Cannon Show",
+      "Hours": "<Fill Me In>"
+    },
+    {
+      "Location": "Fireworks Over Valas",
+      "Hours": "Fridays at 9pm."
+    }
+    ]
+}
