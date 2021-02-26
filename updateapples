@@ -1,0 +1,112 @@
+{
+  "Apples": [
+    {
+      "Location": "Gala",
+      "Hours": "Early September."
+    },
+    {
+      "Location": "Smokehouse",
+      "Hours": "Mid-September."
+    },
+    {
+      "Location": "Mutsu",
+      "Hours": "Mid-September."
+    },
+    {
+      "Location": "Autumn Crisp",
+      "Hours": "Mid-September."
+    },
+    {
+      "Location": "Crimson Crisp",
+      "Hours": "Mid-September."
+    },
+    {
+      "Location": "Shizuka",
+      "Hours": "Mid-September."
+    },
+    {
+      "Location": "Wine Crisp",
+      "Hours": "Mid-September."
+    },
+    {
+      "Location": "Golden Delicious",
+      "Hours": "Mid-September."
+    },
+    {
+      "Location": "Jonagold",
+      "Hours": "Mid-September."
+    },
+    {
+      "Location": "Cortland",
+      "Hours": "Mid-September."
+    },
+    {
+      "Location": "Jonathan",
+      "Hours": "Mid-September."
+    },
+    {
+      "Location": "Honeycrisp",
+      "Hours": "Mid-September."
+    },
+    {
+      "Location": "Fuji- Fuji Wonder, Aztec Fuji",
+      "Hours": "Mid-September, Mid-October."
+    },
+    {
+      "Location": "Pixie Crunch",
+      "Hours": "Mid-September."
+    },
+    {
+      "Location": "Empire",
+      "Hours": "Late-September/Early October."
+    },
+    {
+      "Location": "Idared",
+      "Hours": "Mid-October."
+    },
+    {
+      "Location": "Braeburn",
+      "Hours": "Mid-October."
+    },
+    {
+      "Location": "Evercrisp",
+      "Hours": "Mid-October."
+    },
+    {
+      "Location": "Red Delicious",
+      "Hours": "Mid-October."
+    },
+    {
+      "Location": "Granny Smith",
+      "Hours": "Mid-October."
+    },
+    {
+      "Location": "Cameo",
+      "Hours": "Mid-October."
+    },
+    {
+      "Location": "Pink Lady",
+      "Hours": "Mid-October."
+    },
+    {
+      "Location": "Liberty",
+      "Hours": "Mid-October."
+    },
+    {
+      "Location": "Winesap",
+      "Hours": "Mid-October."
+    },
+    {
+      "Location": "Goldrush",
+      "Hours": "Mid-October."
+    },
+    {
+      "Location": "Stayman",
+      "Hours": "Mid-October."
+    },
+    {
+      "Location": "Rome Beauty",
+      "Hours": "Mid-October."
+    }
+    ]
+}
